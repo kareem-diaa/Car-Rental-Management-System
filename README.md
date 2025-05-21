@@ -4,7 +4,7 @@ A desktop application for managing car rentals, built with Java Swing and MySQL.
 It follows a modular MVC-inspired architecture with migrations, DAOs, domain models, and a Swing GUI.
 
 <p align="center">
-  <img src="https://github.com/Abram122/Car_Rental/blob/main/src/assets/logo.png" alt="Project Logo" width="200"/>
+  <img src="https://github.com/kareem-diaa/Car-Rental-Management-System-CRMS-/blob/main/src/assets/logo.png" alt="Project Logo" width="200"/>
 </p>
 
 ---
@@ -12,11 +12,11 @@ It follows a modular MVC-inspired architecture with migrations, DAOs, domain mod
 ## 📈 Project Status
 <div align="center">
 
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Abram122&repo=Car_Rental&show_owner=false&title_color=blue&icon_color=yellow&bg_color=0d1117)](https://github.com/Abram122/Car_Rental)  
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Abram122&repo=Car_Rental&show_owner=false&title_color=blue&icon_color=yellow&bg_color=0d1117)](https://github.com/kareem-diaa/Car-Rental-Management-System-CRMS-)  
 <br>
-<img src="https://tokei.rs/b1/github/Abram122/Car_Rental" alt="Lines of Code">
-<img src="https://img.shields.io/github/commit-activity/y/Abram122/Car_Rental" alt="Total Commits">
-<img src="https://img.shields.io/github/last-commit/Abram122/Car_Rental" alt="Last Commit">
+<img src="https://tokei.rs/b1/github/kareem-diaa/Car-Rental-Management-System-CRMS-" alt="Lines of Code">
+<img src="https://img.shields.io/github/commit-activity/y/kareem-diaa/Car-Rental-Management-System-CRMS-" alt="Total Commits">
+<img src="https://img.shields.io/github/last-commit/kareem-diaa/Car-Rental-Management-System-CRMS-" alt="Last Commit">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -291,7 +291,7 @@ The migration system automates database setup and schema changes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Abram122/Car_Rental.git
+   git clone https://github.com/kareem-diaa/Car-Rental-Management-System-CRMS-.git
    cd Car_Rental
    ```
 
