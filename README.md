@@ -15,7 +15,6 @@ It follows a modular MVC-inspired architecture with migrations, DAOs, domain mod
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Abram122&repo=Car_Rental&show_owner=false&title_color=blue&icon_color=yellow&bg_color=0d1117)](https://github.com/kareem-diaa/Car-Rental-Management-System-CRMS-)  
 <br>
 <img src="https://tokei.rs/b1/github/kareem-diaa/Car-Rental-Management-System-CRMS-" alt="Lines of Code">
-<img src="https://img.shields.io/github/commit-activity/y/kareem-diaa/Car-Rental-Management-System-CRMS-" alt="Total Commits">
 <img src="https://img.shields.io/github/last-commit/kareem-diaa/Car-Rental-Management-System-CRMS-" alt="Last Commit">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -393,4 +392,3 @@ For inquiries or collaboration, feel free to reach out via GitHub Issues or Disc
 * MySQL Community Edition
 * GitHub Community
 * Open-source contributors
-
